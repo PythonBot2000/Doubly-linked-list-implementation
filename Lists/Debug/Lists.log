@@ -1,0 +1,6 @@
+﻿  el_List.cpp
+  List.cpp
+  main.cpp
+  Создание кода...
+C:\Users\Арт\source\repos\Data structures and Algorithms\Lists\Lists\List.cpp(204): warning C4715: List::Skip: значение возвращается не при всех путях выполнения
+  Lists.vcxproj -> C:\Users\Арт\source\repos\Data structures and Algorithms\Lists\Debug\Lists.exe
